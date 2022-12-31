@@ -1,3 +1,5 @@
+<img align="top" alt="logo" width="1050" width="100" src="" />
+
 <h1 align="center">Hi 🙋‍♂️, I'm Tarun Mandhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
