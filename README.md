@@ -1,5 +1,3 @@
-<img align="top" alt="logo" width="1050" height="20" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/10.gif" />
-
 <h1 align="center">Hi 🙋‍♂️, I'm Tarun Mandhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
