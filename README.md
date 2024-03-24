@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/5.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" style="border-radius:'5px'"/> </p>
 
 - 🌱 I’m currently working **react js and javascript**
 
