@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Tarun Mandhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/5.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/5.gif" style="border-radius: '59px'"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" style="border-radius:'5px'"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
 
 - 🌱 I’m currently working **react js and javascript**
 
