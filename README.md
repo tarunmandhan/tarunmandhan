@@ -70,18 +70,18 @@
           width="45"
           height="40"
       /></a>
-   <a href="https://git.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="50"
-          height="40"
-        />
-      </a>
+  
   <a href="https://www.w3schools.com" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/postman.svg"
           alt="postman"
+          width="50"
+          height="40"
+        />
+      </a> <a href="https://git.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+          alt="git"
           width="50"
           height="40"
         />
