@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Tarun Mandhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/9.gif" />
+<img align="right" alt="coding" width="400" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/10.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
 
