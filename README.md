@@ -80,7 +80,7 @@
       </a>
   <a href="https://git.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+          src="[https://www.vectorlogo.zone/logos/github/github-icon.svg](https://www.vectorlogo.zone/logos/github/github-tile.svg)"
           alt="github"
           width="50"
           height="40"
