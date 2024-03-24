@@ -40,6 +40,14 @@
           height="40"
         />
       </a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/redux.svg"
+          alt="redux"
+          width="50"
+          height="40"
+        />
+      </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -52,6 +60,14 @@
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
           alt="css3"
+          width="50"
+          height="40"
+        />
+      </a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/vitejs.svg"
+          alt="vite"
           width="50"
           height="40"
         />
