@@ -26,7 +26,7 @@
           height="27"
         /> How to reach me **mandhantarun@gmail.com**
 
-- ⚡ Fun fact **I <img
+- 👉 Fun fact **I <img
           src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c16.gif"
           alt="heart"
           width="23"
@@ -45,9 +45,8 @@
         target="_blank"
         rel="noreferrer"
       >
-<!--           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" -->
         <img
-                  src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
           alt="javascript"
           width="40"
           height="40"
