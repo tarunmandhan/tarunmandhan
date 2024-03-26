@@ -144,10 +144,10 @@
       </a>
       <a href="" target="_blank" rel="noreferrer">
         <img
-          src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg](https://cdn.icon-icons.com/icons2/1808/PNG/512/command-line_115191.png"
+          src="https://cdn.icon-icons.com/icons2/1808/PNG/512/command-line_115191.png"
           alt="cmd"
          width="50"
-          height="32"
+          height="35"
         />
       </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
