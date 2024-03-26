@@ -209,8 +209,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunmandhan&show_icons=true&locale=en" alt="tarunmandhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmandhan&" alt="tarunmandhan" />
-   <img align="right" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" 
-          width="110" height="110"/>
-   <img align="right" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/gift.gif" alt="tarunmandhan"  
-          width="110" height="110"/></p>
-<!-- <p><img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" /></p> -->
+   <img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" 
+          width="140" height="140"/>
+   <img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/gift.gif" alt="tarunmandhan"  
+          width="77" height="77"/></p>
