@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Tarun Mandhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="450" height="285" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/5.gif" style="border-radius: 14px"/>
+<img align="right" alt="coding" width="450" height="285" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/5.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
 
@@ -208,4 +208,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunmandhan&show_icons=true&locale=en" alt="tarunmandhan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmandhan&" alt="tarunmandhan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmandhan&" alt="tarunmandhan" />
+   <img align="right" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" 
+          width="110" height="110"/>
+   <img align="right" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/gift.gif" alt="tarunmandhan"  
+          width="110" height="110"/></p>
+<!-- <p><img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" /></p> -->
