@@ -170,7 +170,7 @@
         <img
           src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg"
           alt="ps"
-          width="50"
+          width="33"
           height="40"
         />
       </a>
