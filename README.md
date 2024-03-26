@@ -5,13 +5,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
 
-- 🌱 I’m currently working **react js and javascript**
+- <img
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/plant.gif"
+          alt="plant"
+          width="29"
+          height="19"
+        /> I’m currently working **react js and javascript**
 
 - 💬 Ask me about **react js , javascript**
 
 - 📫 How to reach me **mandhantarun@gmail.com**
 
-- ⚡ Fun fact **I ❤️ singing 🎤**
+- ⚡ Fun fact **I <img
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c16.gif"
+          alt="heart"
+          width="29"
+          height="19"
+        /> singing 🎤**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
