@@ -160,9 +160,9 @@
       </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
-          src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"
+          src="https://cdn.icon-icons.com/icons2/2415/PNG/96/jquery_plain_wordmark_logo_icon_146445.png"
           alt="jquery"
-          width="110"
+          width="45"
           height="40"
         />
       </a>
