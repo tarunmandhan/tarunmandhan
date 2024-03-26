@@ -12,14 +12,24 @@
           height="30"
         />  I’m currently working **react js and javascript**
 
-- 💬 Ask me about **react js , javascript**
+- <img
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c20.gif"
+          alt="ask"
+          width="30"
+          height="27"
+        /> Ask me about **react js , javascript**
 
-- 📫 How to reach me **mandhantarun@gmail.com**
+- <img
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c19.gif"
+          alt="msg"
+          width="30"
+          height="27"
+        /> How to reach me **mandhantarun@gmail.com**
 
 - ⚡ Fun fact **I <img
           src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c16.gif"
           alt="heart"
-          width="29"
+          width="23"
           height="19"
         /> singing 🎤**
 
@@ -35,8 +45,9 @@
         target="_blank"
         rel="noreferrer"
       >
+<!--           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" -->
         <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                  src="https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif"
           alt="javascript"
           width="40"
           height="40"
