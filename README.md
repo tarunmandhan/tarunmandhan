@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunmandhan&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmandhan" /> </p>
 
 - <img
-          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/plant.gif"
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/plant2.gif"
           alt="plant"
-          width="29"
-          height="19"
-        /> I’m currently working **react js and javascript**
+          width="23"
+          height="30"
+        />  I’m currently working **react js and javascript**
 
 - 💬 Ask me about **react js , javascript**
 
