@@ -126,6 +126,30 @@
           height="40"
         />
       </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg"
+          alt="vs code"
+          width="50"
+          height="40"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/npm.svg"
+          alt="npm"
+          width="68"
+          height="30"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg"
+          alt="cmd"
+         width="50"
+          height="32"
+        />
+      </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -139,6 +163,14 @@
           src="https://www.vectorlogo.zone/logos/jquery/jquery-horizontal.svg"
           alt="jquery"
           width="110"
+          height="40"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg"
+          alt="ps"
+          width="50"
           height="40"
         />
       </a>
