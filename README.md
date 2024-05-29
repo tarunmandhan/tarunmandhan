@@ -100,6 +100,14 @@
           height="40"
         />
       </a>
+          <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg"
+          alt="vite"
+          width="40"
+          height="40"
+        />
+      </a>
    <a href="https://www.w3schools.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -197,6 +205,14 @@
       <a href="" target="_blank" rel="noreferrer">
         <img
           src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"
+          alt="notepad++"
+          width="45"
+          height="40"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/netlify.svg"
           alt="notepad++"
           width="45"
           height="40"
