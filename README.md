@@ -68,6 +68,14 @@
           height="40"
         />
       </a>
+           <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"
+          alt="react-router"
+          width="45"
+          height="39"
+        />
+      </a>  
   <a href="" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg"
@@ -241,22 +249,9 @@
           height="36"
         />
       </a>
-      <a href="" target="_blank" rel="noreferrer">
-        <img
-          src="https://react-bootstrap.netlify.app/img/logo.svg"
-          alt="react-bootstrap"
-          width="50"
-          height="36"
-        />
-      </a>
-      <a href="" target="_blank" rel="noreferrer">
-        <img
-          src=""
-          alt=""
-          width="50"
-          height="36"
-        />
-      </a>
+      
+      
+     
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunmandhan&show_icons=true&locale=en&layout=compact" alt="tarunmandhan" /></p>
