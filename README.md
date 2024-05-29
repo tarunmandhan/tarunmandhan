@@ -125,7 +125,7 @@
   <a href="https://www.w3schools.com" target="_blank" rel="noreferrer">
         <img
           src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"
-          alt="bootstrap"
+          alt="sass"
           width="40"
           height="40"
       /></a>
@@ -223,6 +223,38 @@
           alt="notepad++"
           width="40"
           height="37"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
+          alt="firebase"
+          width="40"
+          height="36"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/json.svg"
+          alt="json"
+          width="50"
+          height="36"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src="https://react-bootstrap.netlify.app/img/logo.svg"
+          alt="react-bootstrap"
+          width="50"
+          height="36"
+        />
+      </a>
+      <a href="" target="_blank" rel="noreferrer">
+        <img
+          src=""
+          alt=""
+          width="50"
+          height="36"
         />
       </a>
 </p>
