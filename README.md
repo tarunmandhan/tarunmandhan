@@ -122,6 +122,13 @@
           width="45"
           height="40"
       /></a>
+  <a href="https://www.w3schools.com" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/sass-1.svg"
+          alt="bootstrap"
+          width="40"
+          height="40"
+      /></a>
   
   <a href="https://www.w3schools.com" target="_blank" rel="noreferrer">
         <img
@@ -214,8 +221,8 @@
         <img
           src="https://cdn.worldvectorlogo.com/logos/netlify.svg"
           alt="notepad++"
-          width="45"
-          height="40"
+          width="40"
+          height="37"
         />
       </a>
 </p>
