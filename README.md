@@ -41,6 +41,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a
+        href="https://github.com/tarunmandhan?tab=repositories"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg"
+          alt="t5"
+          width="32"
+          height="40"
+        />
+      </a>
+  <a
         href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"
         rel="noreferrer"
