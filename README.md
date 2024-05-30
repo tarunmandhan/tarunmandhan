@@ -48,8 +48,8 @@
         <img
           src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg"
           alt="t5"
-          width="128"
-          height="160"
+          width="64"
+          height="80"
         />
       </a>
   <a
