@@ -82,10 +82,10 @@
       </a>
            <a href="" target="_blank" rel="noreferrer">
         <img
-          src="https://reactrouter.com/_brand/react-router-mark-color-inverted.svg"
+          src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg"
           alt="react-router"
-          width="45"
-          height="39"
+          width="55"
+          height="45"
         />
       </a>  
   <a href="" target="_blank" rel="noreferrer">
