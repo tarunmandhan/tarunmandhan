@@ -20,7 +20,7 @@
         /> Ask me about **React JS , JavaScript**
 
 
-- <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="30" width="27" /> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mandhantarun55@gmail.com" target="_blank">Reach me **mandhantarun@gmail.com** </a>
+- <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="30" width="27" /> Reach me **mandhantarun@gmail.com**
 
   
 
