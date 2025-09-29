@@ -39,7 +39,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<table align="center">
+<table align="left">
+          <tr><td align="left" colspan="14"><kbd>  💻 Tools and Technologies</kbd></td></tr>
   <tr>                       
  <td align="center" width="68">
 <img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" />    
@@ -76,7 +77,7 @@
 <td align="center" width="68">
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" />
 </td>
-      
+        
 <td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg"
@@ -108,16 +109,16 @@
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" />
 </td>
 
+</tr>    
+<tr>
+     
 <td align="center" width="68">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
   />
 </td>
-
-</tr>    
-<tr>
-          
+    
 <td align="center" width="68">
   <img
     src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
@@ -134,8 +135,7 @@
     src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg"
     alt="vs code"
   />
-</td>
-
+</td> 
 <td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" />
 </td>
@@ -192,7 +192,7 @@
 <td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" />
 </td>
-      
+      <td></td>
      
 
   </tr>
