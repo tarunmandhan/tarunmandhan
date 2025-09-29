@@ -199,9 +199,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmandhan&" alt="tarunmandhan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunmandhan&show_icons=true&locale=en" alt="tarunmandhan" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunmandhan&show_icons=true&locale=en&layout=compact" alt="tarunmandhan" width="100%"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunmandhan&show_icons=true&locale=en&layout=compact" alt="tarunmandhan" /></p>
 
-<p width="100%">
+<p >
    <img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/thank-you.gif" alt="tarunmandhan" 
           width="140" height="140"/>
    <img align="center" src="https://github.com/tarunmandhan/tarunmandhan/blob/main/gift.gif" alt="tarunmandhan"  
