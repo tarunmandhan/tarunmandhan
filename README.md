@@ -44,27 +44,27 @@
 <table align="center">
   <tr>                       
  <td align="center" width="68">
-<img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" width="41" height="32" />    
+<img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" />    
  </td>
  
 <td align="center" width="68">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="41" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
 </td> 
 
 <td align="center" width="68">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="41" height="32" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  />
   </td>
   
 <td align="center" width="68">
- <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="41" height="32" />
+ <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"  />
 </td>
 
 <td align="center" width="68">
-<img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" alt="react-router" width="41" height="32" />
+<img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" alt="react-router"  />
 </td>  
 
 <td align="center" width="68">
-<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt"  width="41" height="32" />
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt"  />
 </td>
 
 <td align="center" width="68">
@@ -72,11 +72,11 @@
 </td>
 
 <td align="center" width="68">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="41" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  />
 </td>
 
 <td align="center" width="68">
-<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="50" height="41" />
+<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" />
 </td>
       
 <td align="center" width="68">
