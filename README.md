@@ -10,21 +10,19 @@
           alt="plant"
           width="23"
           height="30"
-        />  I’m currently working **react js and javascript**
+        />  I’m currently working **React Js and JavaScript**
 
 - <img
           src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c20.gif"
           alt="ask"
           width="30"
           height="27"
-        /> Ask me about **react js , javascript**
+        /> Ask me about **React JS , JavaScript**
 
-- <img
-          src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c19.gif"
-          alt="msg"
-          width="30"
-          height="27"
-        /> How to reach me **mandhantarun@gmail.com**
+
+- <img align="center" src="https://github.com/PiyushKumarSingh-90/gif/blob/main/372102050_LINKEDIN_ICON_TRANSPARENT_1080%20(2).gif" alt="gmail logo" height="30" width="27" /> Reach me **mandhantarun@gmail.com**
+
+  
 
 - 👉 Fun fact **I <img
           src="https://github.com/tarunmandhan/tarunmandhan/blob/main/c16.gif"
