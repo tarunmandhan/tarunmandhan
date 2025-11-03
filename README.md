@@ -44,59 +44,59 @@
 <table align="left">
 <tr><td align="left" colspan="14"><kbd> <kbd>  💻 Tools and Technologies </kbd> </kbd></td></tr>
   <tr>                       
- <td align="center" width="86">
+ <td align="center" width="68">
 <img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" />    
  </td>
  
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript"  />
 </td> 
 
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"  />
   </td>
   
-<td align="center" width="86">
+<td align="center" width="68">
  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux"  />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Dark.svg" alt="react-router"  />
 </td>  
 
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt"  />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
 </td>
 
 </tr>    
 <tr>
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" />
 </td>
         
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/create-react-app.svg"
     alt="vite"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
     alt="tailwind"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg"
     alt="bootstrap"
@@ -105,53 +105,53 @@
 
      
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="sass" />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" />
 </td>
 
 </tr>    
 <tr>
      
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
     alt="git"
   />
 </td>
     
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://www.vectorlogo.zone/logos/github/github-tile.svg"
     alt="github"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="gitbash" />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1-1.svg"
     alt="vs code"
   />
 </td> 
-<td align="center" width="86">
+<td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="npm" />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.icon-icons.com/icons2/1808/PNG/512/command-line_115191.png"
     alt="cmd"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
     alt="c"
@@ -159,42 +159,42 @@
 </td>
 </tr>    
 <tr>
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.icon-icons.com/icons2/2415/PNG/96/jquery_plain_wordmark_logo_icon_146445.png"
     alt="jquery"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg"
     alt="ps"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Notepad_plus_plus.png"
     alt="notepad++"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/netlify.svg"
     alt="notepad++"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img
     src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg"
     alt="firebase"
   />
 </td>
 
-<td align="center" width="86">
+<td align="center" width="68">
   <img src="https://cdn.worldvectorlogo.com/logos/json.svg" alt="json" />
 </td>
 
