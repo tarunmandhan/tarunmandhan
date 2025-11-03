@@ -39,8 +39,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
+
+<kbd>
 <table align="left">
-          <tr><td align="left" colspan="14"><kbd>  💻 Tools and Technologies</kbd></td></tr>
+<tr><td align="left" colspan="14"><kbd> <kbd>  💻 Tools and Technologies </kbd> </kbd></td></tr>
   <tr>                       
  <td align="center" width="68">
 <img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" />    
@@ -196,6 +198,7 @@
 <td></td>
   </tr>
 </table>
+</kbd>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunmandhan&" alt="tarunmandhan" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunmandhan&show_icons=true&locale=en" alt="tarunmandhan" /></p>
