@@ -42,7 +42,7 @@
 
 <kbd>
 <table align="left">
-<tr><td align="left" colspan="14"><kbd> <kbd>  💻 Tools and Technologies </kbd> </kbd></td></tr>
+<tr><td align="center" colspan="14"><kbd> <kbd> <h2> 💻 Tools and Technologies</h2> </kbd> </kbd></td></tr>
   <tr>                       
  <td align="center" width="68">
 <img src="https://github.com/tarunmandhan/tarunmandhan/blob/main/tarun 14-06-2018 .jpg" alt="t5" />    
