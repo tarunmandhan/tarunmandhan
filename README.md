@@ -72,6 +72,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" />
 </td>
 
+</tr>    
+<tr>
 <td align="center" width="68">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  />
 </td>
@@ -155,7 +157,8 @@
     alt="c"
   />
 </td>
-
+</tr>    
+<tr>
 <td align="center" width="68">
   <img
     src="https://cdn.icon-icons.com/icons2/2415/PNG/96/jquery_plain_wordmark_logo_icon_146445.png"
